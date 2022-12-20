@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">KotlinApp-Form-04</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_surname">Surname</string>
+    <string name="hint_height">Height</string>
+    <string name="hint_date_of_birth">Date of Birth</string>
+    <string name="hint_country">Country</string>
+    <string name="help_required">required</string>
+    <string name="help_min_height">Min 50cm*</string>
+    <string name="hint_place_of_birth">Place of birth</string>
+    <string name="hint_notes">Notes</string>
+    <string name="dialog_title">Collected data:</string>
+    <string name="dialog_clear">Clear</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="help_min_height_valid">Min. 50cm</string>
 </resources>
